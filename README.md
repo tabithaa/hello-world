@@ -1,2 +1,4 @@
 # hello-world
-Creating a repository on gitbuh
+Creating a repository on github
+
+Tabitha - Ravenpuff
